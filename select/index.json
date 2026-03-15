@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "未来創造日記",
+  "base_artist": "朝4時",
+  "createdAt": "2026-03-15T18:19:46.585831Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "未来創造日記",
+      "artist": "朝4時",
+      "has_synced": false,
+      "path": "select/pl_01_未来創造日記_朝4時.txt"
+    }
+  ]
+}
